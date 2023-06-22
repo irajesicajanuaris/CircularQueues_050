@@ -110,7 +110,9 @@ int main() {
 			cout << "2. implement delete operation" << endl;
 			cout << "3. display values" << endl;
 			cout << "4. Exit" << endl;
-			cout << "2. implement delete operation" << endl;
+			cout << "Enter your choice (1-4): " << endl;
+			cin >> ch;
+			cout << endl;
 		}
 	}
 }

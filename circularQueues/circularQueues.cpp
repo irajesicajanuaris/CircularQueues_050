@@ -108,7 +108,9 @@ int main() {
 			cout << "Menu" << endl;
 			cout << "1. implement insert operation" << endl;
 			cout << "2. implement delete operation" << endl;
-
+			cout << "3. display values" << endl;
+			cout << "2. implement delete operation" << endl;
+			cout << "2. implement delete operation" << endl;
 		}
 	}
 }

@@ -79,7 +79,7 @@ public:
 				FRONT_position++;
 			}
 			cout << endl;
-	}
+		}
 		else {
 			//jika FRONT_position > REAR_position, iterasi dari FRONT hingga akhir array
 			while (FRONT_position <= max - 1) {
@@ -95,5 +95,12 @@ public:
 				FRONT_position++;
 			}
 			cout << endl;
-
+		}
+	}
 };
+
+int main() {
+	Queues q;
+	char ch;
+
+}
